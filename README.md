@@ -9,7 +9,6 @@ Video Penjelasan : https://youtu.be/PBx9UvSrdxo?si=o1OegYOjAqzZbMV-
 
 <h2>Tampilan User</h2>
 <br>
-
 <h4>Halaman Landing Page</h4>
 <p>Beranda</p>
 <img width="947" height="430" alt="Screenshot 2026-05-17 235815" src="https://github.com/user-attachments/assets/63947a1f-943a-4706-a878-c769ed69d08e" />
@@ -43,7 +42,9 @@ Video Penjelasan : https://youtu.be/PBx9UvSrdxo?si=o1OegYOjAqzZbMV-
 <h4>Detail Materi</h4>
 <img width="947" height="433" alt="Screenshot 2026-05-18 001738" src="https://github.com/user-attachments/assets/ba48cfdf-df5a-4bf3-8149-a0be1bd6e2ca" />
 <br>
+<p>File Materi</p>
 <img width="947" height="434" alt="Screenshot 2026-05-18 001756" src="https://github.com/user-attachments/assets/73df204d-c49c-4e57-9de7-27cdc22a40b6" />
+<br>
 
 <h4>MyList</h4>
 <img width="946" height="435" alt="Screenshot 2026-05-17 235534" src="https://github.com/user-attachments/assets/052d0a4e-b7aa-4636-ab40-215d7512f768" />
@@ -51,11 +52,10 @@ Video Penjelasan : https://youtu.be/PBx9UvSrdxo?si=o1OegYOjAqzZbMV-
 
 <h4>Halaman Trending</h4>
 <img width="942" height="431" alt="Screenshot 2026-05-17 235553" src="https://github.com/user-attachments/assets/d2a07265-a0fd-4925-8967-09304a7d7a4f" />
-
+<br>
 
 <h2>Tampilan Admin</h2>
 <br>
-
 <h4>Halaman Dashboard</h4>
 <img width="946" height="425" alt="Screenshot 2026-05-18 000849" src="https://github.com/user-attachments/assets/46d2570b-2396-42c3-ae9d-7f99dbffb8c4" />
 <br>
